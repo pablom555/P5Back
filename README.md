@@ -5,7 +5,7 @@ Rest Full API made with Hapi js
 ## Install
 
 ```bash
-git clone https://github.com/pablom555/settle-test.git
+git clone https://github.com/pablom555/P5Back.git
 npm install
 ```
 
